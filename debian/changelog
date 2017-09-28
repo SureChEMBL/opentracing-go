@@ -1,0 +1,5 @@
+golang-github-opentracing-opentracing-go (1.0.2-1) unstable; urgency=medium
+
+  * Initial release. Closes: #870191.
+
+ -- Martín Ferrari <tincho@debian.org>  Sun, 30 Jul 2017 20:57:39 +0000
